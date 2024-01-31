@@ -1,0 +1,11 @@
+git -add 
+this will stage the file
+
+git commit -m 
+this commits the file
+ git status
+tells current status 
+
+git push 
+this pushes file to main branch
+git --version
