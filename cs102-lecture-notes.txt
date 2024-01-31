@@ -9,3 +9,7 @@ tells current status
 git push 
 this pushes file to main branch
 git --version
+
+instructions were not at all clear in todays labs. it led to total chaos ad confusion .it would be better if this was taught before .
+
+
